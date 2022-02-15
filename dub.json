@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Su"
+	],
+	"copyright": "Copyright © 2022, Su",
+	"description": "a @nogc-compatible implementation of a sparse set, such as might be used for an object pool.",
+	"license": "AGPL 3.0 or later",
+	"name": "sparseset"
+}

@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/sparseset
+sparseset.so
+sparseset.dylib
+sparseset.dll
+sparseset.a
+sparseset.lib
+sparseset-test-*
+*.exe
+*.o
+*.obj
+*.lst
